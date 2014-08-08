@@ -12,4 +12,4 @@ gem 'ish_rails', group: :development
 ```
 
 Now you can access the view port testing tool at the url, 
-```http://localhost:3000/view-ports```
+`http://localhost:3000/view-ports`

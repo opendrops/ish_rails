@@ -11,4 +11,5 @@ Add Ish Rails to your rails project by adding it to your Gemfile
 gem 'ish_rails', group: :development
 ```
 
-Now you can access the view port testing tool at the url, https://localhost:3000/view-ports
+Now you can access the view port testing tool at the url, 
+```http://localhost:3000/view-ports```
